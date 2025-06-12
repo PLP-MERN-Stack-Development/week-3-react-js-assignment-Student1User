@@ -15,7 +15,7 @@ TaskSphere Professional is an enterprise-grade task management application that 
 
 ### 🎯 **Live Demo**
 - **Deployed URL**: [TaskSphere Professional](https://your-deployment-url.vercel.app)
-- **Repository**: [GitHub Repository](https://github.com/Student1User/tasksphere-professional)
+- **Repository**: [GitHub Repository](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Student1User.git)
 
 ## 📋 **Assignment Requirements - Status Report**
 
