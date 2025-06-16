@@ -4,28 +4,29 @@
 
 A vibrant, fully-featured React application built with modern web technologies, showcasing advanced component architecture, state management, API integration, and stunning visual design with smooth animations.
 
-![TaskFlow Banner](https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![TaskFlow Banner](![image](https://github.com/user-attachments/assets/82bc69ca-60d3-45a5-aace-97fb74e3d08e))
 
 ## 🚀 Live Demo
 
-**[View Live Application →](https://your-deployed-url-here.vercel.app)**
+**[View Live Application →](https://taskflowweek3.netlify.app/)**
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](![image](https://github.com/user-attachments/assets/033e64e2-b501-4e91-8f94-4dce59bc2bb2)
+(![image](https://github.com/user-attachments/assets/033e64e2-b501-4e91-8f94-4dce59bc2bb2)
+(![image](![image](https://github.com/user-attachments/assets/954352ba-49c7-435b-b486-2bb6f0eb8031)
 *Beautiful landing page with animated hero section and feature showcase*
 
 ### 📝 Task Management
-![Task Manager](https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop)
+(![image](https://github.com/user-attachments/assets/a6e6f8be-9d7f-47e4-82c3-faf288b9345b)
 *Intuitive task management with priority levels, filtering, and progress tracking*
 
 ### 🌐 API Data Explorer
-![API Data](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop)
+(![image](https://github.com/user-attachments/assets/220ab26c-f2f4-4d30-bdd1-8ca7d70901ab)
 *Dynamic API data display with search, pagination, and bilingual support*
 
 ### 🌙 Dark Mode
-![Dark Mode](https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&fit=crop)
+(![image](https://github.com/user-attachments/assets/1660cf6c-9699-498a-a724-a5854fa9fa22)
 *Seamless dark mode with animated theme transitions*
 
 ## ✅ Assignment Completion Status
