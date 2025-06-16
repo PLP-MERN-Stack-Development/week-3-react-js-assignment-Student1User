@@ -4,7 +4,7 @@
 
 A vibrant, fully-featured React application built with modern web technologies, showcasing advanced component architecture, state management, API integration, and stunning visual design with smooth animations.
 
-![TaskFlow Banner](![image](https://github.com/user-attachments/assets/82bc69ca-60d3-45a5-aace-97fb74e3d08e))
+![TaskFlow Banner](![image](https://github.com/user-attachments/assets/82bc69ca-60d3-45a5-aace-97fb74e3d08e)
 
 ## 🚀 Live Demo
 
